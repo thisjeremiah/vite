@@ -1,1 +1,1 @@
-# Vite + Vue 3 + SSG
+# Vite + Vue 3 + SSG 
